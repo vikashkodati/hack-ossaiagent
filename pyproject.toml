@@ -13,6 +13,8 @@ llama-index-embeddings-openai = "^0.2.3"
 llama-index-llms-openai-like = "^0.2.0"
 python-dotenv = "^1.0.1"
 jupyter = "^1.0.0"
+requests = "^2.32.3"
+icalendar = "^5.0.13"
 
 
 [build-system]
